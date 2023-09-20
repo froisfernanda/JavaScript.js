@@ -3,11 +3,13 @@ const texto2 = "Olá, Mundo!";
 const senha = "senhaSuperSegura456!";
 const StringDeNumeros = "34567";
 
-const citacao = 'Meu nome é"';
-const meuNome = "Fernanda";
+const citacao = "Meu Nome é ";
+const MeuNome = "Fernanda";
+console.log(citacao)
 
-//concatação (+)
+// concatação (+)
 
-console.log(citacao + meuNome)
+
+console.log(citacao)
 
 //template string OU template literal
